@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sensordemo</string>
+    <string name="trend">动态传感器</string>
+    <string name="environment">环境传感器</string>
+    <string name="location">位置传感器</string>
+    <string name="compass">指南针</string>
+    <string name="gradienter">水平仪</string>
+    <string name="horizontal">水平</string>
+    <string name="vertical">垂直</string>
+</resources>
